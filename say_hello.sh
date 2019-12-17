@@ -1,1 +1,1 @@
-echo " Hello This is Git repo test!"
+echo " Hello This is Git repo testng new feature branch!"
